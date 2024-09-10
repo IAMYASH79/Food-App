@@ -1,8 +1,9 @@
 import React from "react";
 import Navbar from "./components/Navbar/Navbar";
 import Hero from "./components/Hero/Hero";
-import Footer from "./components/Footer/footer";
+
 import Banner from "./components/Banner/Banner";
+import Footer from "./components/Footer/footer";
 
 const App = () => {
   return (
