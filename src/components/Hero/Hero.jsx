@@ -53,9 +53,9 @@ const Hero = () => {
                 </span>{" "}
                 Zone
               </h1>
-              <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold">
+              <h3 className="text-3xl sm:text-4xl lg:text-5xl font-bold">
                 Where Every Bite is a Delight!
-              </h2>
+              </h3>
               <p className="text-sm ">
                 At Foodie Zone, we believe that dining is more than just a meal;
                 it's an experience. Nestled in the heart of the city, our
@@ -79,7 +79,7 @@ const Hero = () => {
                   data-aos-once="true"
                   src={imageId}
                   alt="biryani img"
-                  className="w-[300px] sm:w-[450px] sm:scale-125  mx-auto spin "
+                  className="w-[300px] sm:w-[450px]  mx-auto spin "
                 />
               </div>
               <div className="flex lg:flex-col lg:top-1/2 lg:-translate-y-1/2 lg:py-2 justify-center gap-4 absolute bottom-[0px] lg:-right-10 bg-white/30 rounded-full">
